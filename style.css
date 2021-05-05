@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'PT Sans', sans-serif;
+}
+
+body {
+    background-color: rgba(180, 109, 134, 0.88);
+}
+
+.sun {
+    position: absolute;
+    width: 320px;
+    height: 350px;
+    inset: 45px 180px;
+    right: 30px;
+}
+
+.plane {
+    position: absolute;
+    width: 420px;
+    height: 370px;
+    inset: -180px 130px;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.box {
+    position: absolute;
+    width: 370px;
+    height: 420px;
+    background: rgba(255, 204, 123);
+    border-radius: 4px;
+}
+
+.usuario {
+    position: absolute;
+    outline: none; 
+    padding: 0 0.5rem;
+    width: 230px;
+    height: 40px;
+    left: 70px;
+    top: 89px;
+    background: #EEEEEE;
+    color:  #1b1b22;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+.senha {
+    position: absolute;
+    outline: none; 
+    padding: 0 0.5rem;
+    width: 230px;
+    height: 40px;
+    inset: 167px 70px;
+    background: #EEEEEE;
+    color:  #1b1b22;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+.enviar {
+    position: absolute;
+    outline: none;
+    width: 135px;
+    height: 25px;
+    inset: 241px 118px;
+    color: #FFFFFF;
+    background: #D09BAF;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+.or {
+    position: absolute;
+    width: 170px;
+    height: 14px;
+    inset: 304px 100px;
+}
+
+.social_media1 {
+    position: absolute;
+    cursor: pointer;
+    width: 27.87px;
+    height: 22px;
+    inset: 354px 100px;
+}
+
+.social_media2 {
+    position: absolute;
+    cursor: pointer;
+    width: 22.3px;
+    height: 22px;
+    inset: 354px 147.38px;
+}
+
+.social_media3 {
+    position: absolute;
+    cursor: pointer;
+    width: 22.3px;
+    height: 22px;
+    inset: 354px 194.75px;
+}
+
+.social_media4 {
+    position: absolute;
+    cursor: pointer;
+    width: 27.87px;
+    height: 22px;
+    inset: 354px 242.13px;
+}
+
+.logo {
+    position: absolute;
+    width: 60px;
+    height: 45px;
+    inset: 14px 7px;
+}
+
+.ico{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 70px;
+    top: 89px;
+}
+
+.beach {
+    position: absolute;
+    width: 370px;
+    height: 320px;
+    inset: 600px 200px;
+    right: 30px;
+}
+
+.surf {
+    position: absolute;
+    text-align: right;
+    width: 420px;
+    height: 320px;
+    inset: 625px 1300px;
+    right: 200px;
+}
