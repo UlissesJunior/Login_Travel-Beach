@@ -6,5 +6,5 @@ Pra aprimorar minhas habilidades no FrontEnd, fiz uma tela de login no Figma e d
 <p>
   
 ## Demo
-Para testar acesse o link abaixo:
+Para testar acesse o link:
 https://ulissesjunior.github.io/Login_Travel-Beach/
