@@ -11,18 +11,24 @@ O projeto é responsivo e está adequado respectivamente para as versões Deskto
 <p align="center">
 <img src="assets/Demo Login.png">
 <p>
+  
 ### Versão Notebook ( Tela (min-width: 1200px) and (max-width: 1550px) )
 <p align="center">
 <img src="assets/Demo Login Notebook.png">
 <p>   
+  
 ### Versão Tablet ( Tela (min-width: 577px ) and (max-width: 1199px) )
 <p align="center">
 <img src="assets/Demo Login Tablet.png">
 <p>   
+  
 ### Versão Smartphone ( Tela < 577px )
 <p align="center">
 <img src="assets/Demo Login Smartphone.png">
-<p>                              
+<p>            
+  
 ## Demo
 Para testar acesse o link: 
-https://ulissesjunior.github.io/Login_Travel-Beach/
+<a href="https://ulissesjunior.github.io/Login_Travel-Beach/" target="_blank">Login Travel Beach</a>
+
+
