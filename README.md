@@ -9,7 +9,7 @@ Pra aprimorar minhas habilidades no FrontEnd, fiz uma tela de login no Figma e d
 O projeto é responsivo e está adequado respectivamente para as versões Desktop, Notebook, Tablet e Smartphone.
 ### Versão Desktop ( Tela > 1550px )
 <p align="center">
-<img src="assets/Demo Login Desktop.png">
+<img src="assets/Demo Login.png">
 <p>
 ### Versão Notebook ( Tela (min-width: 1200px) and (max-width: 1550px) )
 <p align="center">
