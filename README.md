@@ -2,14 +2,14 @@
 Pra aprimorar minhas habilidades no FrontEnd, fiz uma tela de login no Figma e depois codei. <p>
 É uma tela de login com o tema "Travel-Beach", que seria "Viajar para a Praia", tema esse pensado pois essa tela de login foi pensada para um site de viagens
 <p align="center">
-<img src="assets/Demo Login.png">
+<img src="assets/Demo Login Desktop.png">
 <p>
   
 ## Responsividade
 O projeto é responsivo e está adequado respectivamente para as versões Desktop, Notebook, Tablet e Smartphone.
 ### Versão Desktop ( Tela > 1550px )
 <p align="center">
-<img src="assets/Demo Login.png">
+<img src="assets/Demo Login Desktop.png">
 <p>
   
 ### Versão Notebook ( Tela (min-width: 1200px) and (max-width: 1550px) )
